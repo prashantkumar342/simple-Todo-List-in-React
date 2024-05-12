@@ -1,0 +1,35 @@
+.h1{
+  font-family: sans-serif;
+}
+.input{
+  outline: none;
+  border: none;
+  width: 45vw;
+  font-size: 3vh;
+  border-radius: 1vh 0 0 1vh;
+  padding: 1vh;
+  line-height: 4vh;
+}
+div{
+  text-align: center;
+  /* padding: 2vh; */
+  width: fit-content;
+  margin: 0 auto 0 auto;
+  /* outline: white solid; */
+}
+.button{
+  border-radius: 0 1vh 1vh 0 ;
+  background-color: blue;
+  color: white;
+  border: None;
+  width: 50px;
+  padding: 1vh;
+  font-size: 3vh;
+  line-height: 4vh;
+  outline: none;
+}
+.error{
+  color: rgb(0, 0, 0);
+  font-size: 2vh;
+  font-family: monospace;
+}
